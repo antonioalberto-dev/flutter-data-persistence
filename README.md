@@ -1,4 +1,4 @@
-# Aplicação Mobile com persistência de dados usando SQLite
+# Aplicação Mobile com persistência de dados usando SQFlite
 
 ## Getting Started
 
