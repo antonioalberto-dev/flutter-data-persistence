@@ -1,6 +1,4 @@
-# flutter_persistencia
-
-A new Flutter project.
+# Aplicação Mobile com persistência de dados usando SQLite
 
 ## Getting Started
 
