@@ -9,7 +9,7 @@ class ContactsList extends StatelessWidget {
     return Scaffold(
       // backgroundColor: Theme.of(context).backgroundColor,
       appBar: AppBar(
-        title: Text('Contacts'),
+        title: Text('Transfer'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(12.5),
