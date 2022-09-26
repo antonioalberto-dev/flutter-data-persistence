@@ -1,4 +1,4 @@
-# Aplicação Mobile com persistência de dados usando SQFlite
+# Aplicação Mobile com consumo de Web Api desenvolvida com Spring Bot
 
 ## Getting Started
 
